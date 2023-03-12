@@ -1,6 +1,6 @@
 {
   "name": "librus-api-v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Newer and better TypeScript API for librus synergia!",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
